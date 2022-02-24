@@ -1,1 +1,2 @@
-# This is a simple go web server app to show the host ip address.
+# Simple go web server app
+This will show the host ip address when you type <url>/myip
