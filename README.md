@@ -1,1 +1,1 @@
-This is a simple web server app
+This is a simple go web server app.
